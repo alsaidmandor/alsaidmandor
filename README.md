@@ -1,18 +1,19 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
-<h1 align="center">Hi 👋, I'm Alsaeid mandor</h1>
-<h3 align="center">A passionate Mid-Senior Flutter Developer 🚀</h3>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding." width="600" align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsaidmandor" alt="alsaid mandor" /></a> </p>
+# Hi there, I'm Alsaeid mandor 👋
 
-### 👨‍💻 About Me
 Mid-Senior Flutter Developer with 3+ years of experience building scalable enterprise mobile applications using Flutter, Clean Architecture, SOLID principles, Bloc/Cubit and Provider. Experienced in ERP, FinTech, Real Estate, Ride-Hailing, Consultation and E-Learning platforms. Strong expertise in REST APIs, Firebase, payment gateway integration (HyperPay & Stripe), performance optimization, and delivering production-ready applications.
 
-- 🔭 I’m currently working at **Elnooronline**
-- 🌱 I’m currently learning advanced **Flutter, Architecture Patterns, and Performance Optimization**
-- 👨‍💻 All of my projects are available at [https://github.com/alsaidmandor](https://github.com/alsaidmandor)
-- 💬 Ask me about **Flutter, Clean Architecture, BLoC, Provider, Android Native**
-- 📫 How to reach me **alsaidmandor8888@gmail.com** or **+20 1559847533**
-- 🌍 Location **El-Mahalla El-Kubra, AL Gharbia, Egypt**
+---
+
+## Contact with me on
+
+- **business email :** alsaidmandor8888@gmail.com
+- **phone :** +20 1559847533
+
+<a href="https://linkedin.com/in/alsaidmandor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:alsaidmandor8888@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/alsaidmandor" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+---
 
 ## Samples from my projects
 
@@ -56,11 +57,6 @@ NOVA X هي منصة تعليمية حديثة مصممة لتزويد الطل�
 
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="40"></a> <a href="#"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40"></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alsaidmandor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alsaidmandor" height="30" width="40" /></a>
-<a href="mailto:alsaidmandor8888@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="alsaidmandor8888@gmail.com" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
